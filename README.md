@@ -9,7 +9,7 @@ I know:
 - C#
 - Go
 
-all pretty well, and there's plenty of odds and ends I know too, but not as well.
+all pretty well, and there's plenty of other languages I know too, but not as well.
 
 ### Contact me:
 - Discord: `garageagle#1109`
