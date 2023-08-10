@@ -12,5 +12,5 @@ I know:
 all pretty well, and there's plenty of other languages I know too, but not as well.
 
 ### Contact me:
-- Discord: `garageagle#1109`
+- Discord: `garageagle`
 - E-mail: `me@garageagle.net`
